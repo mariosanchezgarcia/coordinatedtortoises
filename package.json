@@ -32,7 +32,7 @@
     "express": "^4.13.2",
     "express-session": "^1.14.1",
     "geo-from-ip": "^1.0.6",
-    "install": "^0.8.1",
+    "install": "^0.13.0",
     "method-override": "^2.3.5",
     "morgan": "^1.7.0",
     "node-cron": "^1.1.2",
