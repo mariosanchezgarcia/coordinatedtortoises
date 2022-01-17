@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/CoordinatedTortoises/coordinatedtortoises#readme",
   "dependencies": {
-    "bcrypt": "^0.8.7",
+    "bcrypt": "^5.0.0",
     "bitcoinjs-lib": "^2.3.0",
     "blockchain-wallet-service": "^0.22.0",
     "blockchain.info": "^2.4.2",
@@ -36,13 +36,13 @@
     "method-override": "^2.3.5",
     "morgan": "^1.7.0",
     "node-cron": "^1.1.2",
-    "npm": "^3.10.7",
+    "npm": "^7.0.0",
     "pg": "^6.1.0",
     "python-shell": "^0.4.0",
     "request": "^2.74.0",
     "rethinkdbdash": "^2.3.21",
-    "sequelize": "^3.24.1",
-    "ws": "^1.1.1"
+    "sequelize": "^5.22.5",
+    "ws": "^5.2.3"
   },
   "devDependencies": {
     "chai": "^3.5.0",
